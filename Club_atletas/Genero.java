@@ -1,5 +1,5 @@
 package Club_atletas;
 
 public enum Genero {
-	M, F, X
+	M, F, X,Y;
 };
